@@ -10,7 +10,3 @@ O Ignite Feed é um projeto básico que reproduz o feed das redes sociais, com r
 
 ## Link do Projeto
 https://ignitefeedjp.netlify.app
-
-## Considerações Finais
-Desenvolvido por João Pedro - @devjoaoplay
-
